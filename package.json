@@ -1,0 +1,9 @@
+{
+  "name": "simple-proxy-prod",
+  "version": "2.1.4",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "jose": "5.2.0"
+  }
+}
